@@ -1,0 +1,2 @@
+INSERT INTO `products`(`name`,`sectors`,`price`,`quantity`,`current`,`description`) VALUES
+('IphoneX','Điện thoại','1000000','1','2021/01/12','Hàng đẹp, chất lượng cao'
